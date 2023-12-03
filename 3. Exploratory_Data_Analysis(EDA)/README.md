@@ -3,7 +3,7 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for used v
 
 ## Instructions for completing the project
 - **Step 1. Open the data file and study the general information**
-    * File path: /datasets/vehicles_us.csv. Download dataset
+    
 
 - **Step 2. Data preprocessing**
     * Identify and study missing values:
