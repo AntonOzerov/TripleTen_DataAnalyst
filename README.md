@@ -1,6 +1,6 @@
 # TripleTen Data Analyst course syllabus
 * TripleTen (Yandex)
-* Timeframe: Dec '22 - June '23
+* Timeframe: June '23 - Dec '23
 * **Data Analyst** | 7mo course done through TripleTen (Yandex) | Python, SQL, Tableau, Business Analytics, A/B
 tests
 ## What will you find in this repository?:
