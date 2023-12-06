@@ -1,5 +1,6 @@
 # Project presentation + Tableau
 - https://public.tableau.com/app/profile/anton.ozerov/viz/WorldPopulation_16901459315100/Dashboard2
+- https://github.com/AntonOzerov/TripleTen_DataAnalyst/blob/6b2cfa6f42de0260e277d600791b12f07892deb9/10.%20Automation%20%7C%20Tableau/Trending%20Youtube%20videos%20Tableau%201.pdf
 
 # Project description
 
